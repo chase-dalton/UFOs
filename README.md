@@ -14,3 +14,4 @@ But by using the filters on the side, the data will be dynamically refreshed and
 
 
 ## Summary
+This new site design is great, but a drawback it has is that it doesn't filter for every dimension of the data. Filters for duration (and arguably comments) should be added to the design. To improve this site, I would recommend changing the underlying data source from a static data object and instead plug into a dynamic dataset that will pull live data into the site, as opposed to having to manually update the data array with objects. Another improvement, albeit slight, would to have columns separated with a line to help better differentiate the columns in the data.
